@@ -1,0 +1,19 @@
+{
+    "Lua.diagnostics.disable": [
+        "need-check-nil"
+    ],
+    "Lua.diagnostics.globals": [
+        "shell",
+        "printError",
+        "term",
+        "http",
+        "colors",
+        "sleep",
+        "fs",
+        "settings",
+        "multishell",
+        "colours",
+        "write",
+        "textutils"
+    ]
+}
